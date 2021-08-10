@@ -100,7 +100,7 @@
                     }
                 ],
                 "ipAddress":{
-                    "dnsNameLabel": "sonarqube-acig",
+                    "dnsNameLabel": "erwinsonarqubedns",
                     "ports":[
                         {
                             "port":80,
